@@ -161,7 +161,6 @@ function printQuote() {
 
 // Fires random background color
   document.body.style.backgroundColor = changeColor();
-  return document.getElementById('quote-box').innerHTML = html;
 }
 
 // Automatic timer function
