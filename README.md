@@ -5,8 +5,7 @@ This is my first project for the Team Treehouse Techdegree (Full Stack Javascrip
 It's a random quote generator
 
 Features include:
-Random quote generated upon clicking on button
-Random color generated after each click of the button
-Alternatively, it is self timed after 15 seconds to run the program changing the bacground color
-and providing a new quote
-Quotes do not repeat until it has cycled through each of over 10+ quotes
+Random quote generated upon clicking on button,
+Random color generated after each click of the button,
+15 second self timer to run the program changing the background color and providing a new quote,
+Quotes do not repeat until it has cycled through each of over 10+ quotes.
